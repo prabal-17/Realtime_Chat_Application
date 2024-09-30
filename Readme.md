@@ -42,6 +42,3 @@ This real-time chat application is developed using Java, enabling seamless commu
 - Adding file sharing capabilities.
 - Saving and retrieving chat history.
 
----
-
-This version includes all necessary details while staying within the 350-word limit.
